@@ -29,3 +29,6 @@ node_modules
 
 # Development DB
 test/dev.sqlite3
+
+# VSCode files
+.history/

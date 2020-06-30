@@ -1,6 +1,6 @@
 /* global describe, before, after, beforeEach, it */
 
-var Joi = require('joi')
+var Joi = require('@hapi/joi')
 var chai = require('chai')
 var expect = chai.expect
 var db = require('./db')
